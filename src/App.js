@@ -1,11 +1,11 @@
 import logo from './logo.svg';
 import './App.css';
-import ShoesStore from './Components/ShoesStore/ShoesStore';
+import BaiTapBookingTicket from './Components/BaiTapBookingTicket';
 
 function App() {
   return (
     <div>
-      <ShoesStore></ShoesStore>
+      <BaiTapBookingTicket />
     </div>
   );
 }
